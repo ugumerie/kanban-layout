@@ -1,6 +1,10 @@
-# KanbanCards
+# Kanban Layout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+
+## Live Demo
+
+To view the live demo click [here](https://ugumerie.github.io/kanban-layout)
 
 ## Development server
 
